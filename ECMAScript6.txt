@@ -1,0 +1,18 @@
+ECMAScript和javascript 的关系
+	ECMAScript 是 javascript 的规范
+	javascript 是 ECMAScript 的一种实现
+	ECMAScript有可以称作JScript、ActionScript
+	
+ES6,ES5和ES2015有什么区别
+	ES2015特指在2015年发布的新一代JS语言标准
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
