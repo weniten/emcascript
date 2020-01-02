@@ -1,0 +1,25 @@
+js最新规定的数据类型有8种：
+	7种原始数据类型
+		Boolean
+		BigInt（es6新增）
+		Null
+		Number
+		String
+		Symbol（es6新增 符号类型）
+		Undefined
+	和
+		Object
+	
+
+typeof的用法总结
+	所有可能返回的值：
+		undefined
+		object
+		boolean
+		number
+		bigint
+		string	
+		symbol （es6新增 符号类型）
+		function 
+	
+	
