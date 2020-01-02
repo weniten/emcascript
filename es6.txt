@@ -1,0 +1,45 @@
+ECMAScript和javascript 的关系
+	ECMAScript 是 javascript 的规范
+	javascript 是 ECMAScript 的一种实现
+	ECMAScript有可以称作JScript、ActionScript
+	
+ES6,ES5和ES2015有什么区别
+	ES2015特指在2015年发布的新一代JS语言标准
+	ES6泛指下一代的js语言标准
+	ES5泛指上一代的js语言标准
+	ES6包括ES2015，ES2016，ES2017等
+	大部分情况下，ES6等同于ES2015
+	
+let、var和暂时性死区
+	在ES6之前，声明变量只能用var，ES6中新增了let变量声明
+	用let声明的变量，不存在变量提升，不能重复声明
+	而且要求声明之后才能使用
+	var没有上述限制
+	暂时性死区：在块级作用域内，使用let命令声明变量之前，该
+	变量都是不可用的
+	
+ES6对String字符串类型做的升级优化？
+	优化部分：
+	ES6增加了字符串模板``,取代了以往的字符串相加形式
+	能保留所有的空格换行
+	升级部分：
+	增加了includes,startsWith,endsWith,padStart,padEnd,repeat
+
+ES6对Array数组类型做的升级优化？
+	1.数组的解构赋值：直接以let[a,b,c]=[1,2,3]形式进行变量赋值
+	2.新增扩展运算符(...)：将数组转变成用逗号分隔的参数序列
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
